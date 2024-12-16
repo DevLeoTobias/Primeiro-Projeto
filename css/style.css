@@ -163,12 +163,13 @@ body {
 .mainHeading__content {
   max-width: 1110px;
   min-height: 600px;
-  left: 50%;
+  left: 40%;
   transform: translateX(-50%);
   display: flex;
   justify-content: space-between;
   align-items: center;
   position: relative;
+  width: 100%;
 }
 
 @media screen and (max-width: 799px) {
