@@ -212,6 +212,7 @@ body {
   justify-content: center;
   /* Centraliza os elementos no container */
   width: 100%;
+  margin-top: 20px;
 
 }
 
@@ -414,6 +415,7 @@ body {
   background-color: #ffffff00;
   padding: 20px;
   margin: auto;
+  margin-top: 50px;
 }
 
 .banner-top {
@@ -446,7 +448,7 @@ body {
 .container-sobre {
   display: flex;
   width: 80%;
-  padding: 20px;
+  padding: 20px;  
   background-color: #ffffff3f;
   margin: auto;
   margin-bottom: 10px;
